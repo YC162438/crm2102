@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bd52803b-6280-4322-bc8f-072b7acf73b8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="UserMapperTest.testselect" />
+      <run-configuration type="JUnit" name="UserMapperTest.testEq2" />
+    </enabled-run-configurations>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/soft/MAVEN/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\soft\MAVEN\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2hoyUN7ahRJZKq3gmeHWtMXPLi8" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code\itcast-mp-springboot\src\main\resources\mybatis\mapper" />
+      <recent name="E:\code\itcast-mp-springboot\src\main\resources\mybatis" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.UserMapperTest.testWrapper">
+    <configuration name="UserMapperTest.testEg3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testEg3" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testEq" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testEq" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testEq2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testEq2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testWrapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testWrapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.testirapper" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="itcast-mp-springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mp" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mp.UserMapperTest" />
+      <option name="METHOD_NAME" value="testirapper" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserMapperTest.testWrapper" />
+        <item itemvalue="JUnit.UserMapperTest.testirapper" />
+        <item itemvalue="JUnit.UserMapperTest.testEg3" />
+        <item itemvalue="JUnit.UserMapperTest.testEq2" />
+        <item itemvalue="JUnit.UserMapperTest.testEq" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bd52803b-6280-4322-bc8f-072b7acf73b8" name="Default Changelist" comment="" />
+      <created>1718274739908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718274739908</updated>
+      <workItem from="1718274741212" duration="6317000" />
+      <workItem from="1718357061454" duration="2365000" />
+      <workItem from="1718536686688" duration="7760000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="140" key="#Inspections" timestamp="1718274908935">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="722" y="140" key="#Inspections/0.0.1536.816@0.0.1536.816" timestamp="1718274908935" />
+    <state x="932" y="248" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1718353171909">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="932" y="248" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1718353171909" />
+    <state x="524" y="114" key="#com.intellij.ide.util.MemberChooser" timestamp="1718353989869">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="524" y="114" key="#com.intellij.ide.util.MemberChooser/0.0.1536.816@0.0.1536.816" timestamp="1718353989869" />
+    <state x="549" y="166" key="FileChooserDialogImpl" timestamp="1718274800161">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="166" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1718274800161" />
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom" timestamp="1718617999443">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1718617999443" />
+    <state width="1493" height="321" key="GridCell.Tab.0.center" timestamp="1718617999443">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1718617999443" />
+    <state width="1493" height="321" key="GridCell.Tab.0.left" timestamp="1718617999443">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1718617999443" />
+    <state width="1493" height="321" key="GridCell.Tab.0.right" timestamp="1718617999443">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="321" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1718617999443" />
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom" timestamp="1718353849483">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.bottom/0.0.1536.816@0.0.1536.816" timestamp="1718353849483" />
+    <state width="1493" height="258" key="GridCell.Tab.1.center" timestamp="1718353849483">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.center/0.0.1536.816@0.0.1536.816" timestamp="1718353849483" />
+    <state width="1493" height="258" key="GridCell.Tab.1.left" timestamp="1718353849483">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.left/0.0.1536.816@0.0.1536.816" timestamp="1718353849483" />
+    <state width="1493" height="258" key="GridCell.Tab.1.right" timestamp="1718353849483">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1493" height="258" key="GridCell.Tab.1.right/0.0.1536.816@0.0.1536.816" timestamp="1718353849483" />
+    <state x="272" y="53" key="SettingsEditor" timestamp="1718356030221">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="272" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1718356030221" />
+    <state x="461" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1718536799084">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="461" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1718536799084" />
+    <state x="425" y="62" width="672" height="676" key="search.everywhere.popup" timestamp="1718355048693">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="425" y="62" width="672" height="676" key="search.everywhere.popup/0.0.1536.816@0.0.1536.816" timestamp="1718355048693" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/cn/itcast/mp/config/MybatisPlusConfig.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>65</line>
+          <properties class="cn.itcast.mp.UserMapperTest" method="testUpdate2">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/itcast/mp/UserMapperTest.java</url>
+          <line>182</line>
+          <properties class="cn.itcast.mp.UserMapperTest" method="testWrapper">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
